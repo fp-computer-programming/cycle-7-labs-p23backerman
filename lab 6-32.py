@@ -10,14 +10,7 @@ Colors_Copy = colors
 
 #Prints the variable colors before we change Colors_ Copy
 print(colors)
-#These lines remove the values from the variable
+#ThIS line removes the value Yellow from the variable
 Colors_Copy.remove("Yellow")
-Colors_Copy.remove("Blue")
-Colors_Copy.remove("Green")
-Colors_Copy.remove("Pink")
-Colors_Copy.remove("black")
-Colors_Copy.remove("brown")
-Colors_Copy.remove("Purple")
-Colors_Copy.remove("Red")
-Colors_Copy.remove("Orange")
+
 print(Colors_Copy)
